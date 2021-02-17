@@ -2,7 +2,7 @@
 title: GUNUNGKIDUL
 subtitle: Kabupaten Gunungkidul
 date: 2021-02-17T07:58:51.483Z
-summary: "<i>sumber: https://id.wikipedia.org/wiki/Kabupaten_Gunungkidul"
+summary: ""
 draft: false
 featured: false
 image:
